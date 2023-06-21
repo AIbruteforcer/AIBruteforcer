@@ -1,16 +1,14 @@
-### Hi there 👋
-
-<!--
-**AIbruteforcer/AIBruteforcer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!DOCTYPE html>
+<html>
+<head>
+</head>
+<body>
+  <h1>About me</h1>
+  <p>Welcome to my website! I'm Enderlite, and I specialize in creating ChatGPT jailbreaks. Currently, I'm working on a jailbreak called "Rebail." Stay tuned for exciting updates!</p>
+  <p>Check out my links below:</p>
+  <ul>
+    <li><a href="https://github.com/AIbruteforcer">GitHub</a></li>
+    <li><a href="https://youtube.com/enderlite">YouTube</a></li>
+  </ul>
+</body>
+</html>
